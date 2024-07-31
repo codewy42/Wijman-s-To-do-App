@@ -3,3 +3,7 @@ mopping
 garbage
 cooking
 baking
+improve app
+day 19
+cleanmake computerfix lamp
+eat pancake
